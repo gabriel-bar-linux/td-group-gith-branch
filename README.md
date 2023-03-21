@@ -1,15 +1,5 @@
-# td-group-gith-branch
-<<<<<<< HEAD
-"The night is darkest just before the dawn. And I promise you, the dawn is coming."
-"I believe what doesn't kill you simply makes you, stranger."
-"Endure, Master Wayne. Take it. They'll hate you for it, but that's the point of Batman, he can be the outcast. He can >"Your anger gives you great power. But if you let it, it will destroy you... As it almost did me."
-"You either die a hero or live long enough to see yourself become the villain."
-"If you're good at something, never do it for free."
-=======
-bim
-bam
-boum
-bum
-bom
-
->>>>>>> origin/main
+Git interactive rebase
+Changing Multiple Commit Messages
+The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.
+At this point, you should have a bona fide Git repository on your local machine, and a checkout or working copy of all of its files in front of you. Typically, you'll want to start making changes and committing snapshots of those changes into your repository each time the project reaches a state you want to record.
+PierrickPINPIN
